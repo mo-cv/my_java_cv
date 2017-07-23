@@ -1,6 +1,14 @@
 # Compiled class file
 *.class
 
+**/.idea
+*.iml
+*target
+*.log
+.idea
+*.hprof
+.vertx
+
 # Log file
 *.log
 
